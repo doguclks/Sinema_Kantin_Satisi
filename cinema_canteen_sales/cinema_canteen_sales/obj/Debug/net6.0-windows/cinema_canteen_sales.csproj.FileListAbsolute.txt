@@ -1,0 +1,36 @@
+C:\Users\doguk\source\repos\cinema_canteen_sales\cinema_canteen_sales\bin\Debug\net6.0-windows\cinema_canteen_sales.exe
+C:\Users\doguk\source\repos\cinema_canteen_sales\cinema_canteen_sales\bin\Debug\net6.0-windows\cinema_canteen_sales.deps.json
+C:\Users\doguk\source\repos\cinema_canteen_sales\cinema_canteen_sales\bin\Debug\net6.0-windows\cinema_canteen_sales.runtimeconfig.json
+C:\Users\doguk\source\repos\cinema_canteen_sales\cinema_canteen_sales\bin\Debug\net6.0-windows\cinema_canteen_sales.dll
+C:\Users\doguk\source\repos\cinema_canteen_sales\cinema_canteen_sales\bin\Debug\net6.0-windows\cinema_canteen_sales.pdb
+C:\Users\doguk\source\repos\cinema_canteen_sales\cinema_canteen_sales\obj\Debug\net6.0-windows\cinema_canteen_sales.csproj.AssemblyReference.cache
+C:\Users\doguk\source\repos\cinema_canteen_sales\cinema_canteen_sales\obj\Debug\net6.0-windows\cinema_canteen_sales.Form1.resources
+C:\Users\doguk\source\repos\cinema_canteen_sales\cinema_canteen_sales\obj\Debug\net6.0-windows\cinema_canteen_sales.Properties.Resources.resources
+C:\Users\doguk\source\repos\cinema_canteen_sales\cinema_canteen_sales\obj\Debug\net6.0-windows\cinema_canteen_sales.csproj.GenerateResource.cache
+C:\Users\doguk\source\repos\cinema_canteen_sales\cinema_canteen_sales\obj\Debug\net6.0-windows\cinema_canteen_sales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doguk\source\repos\cinema_canteen_sales\cinema_canteen_sales\obj\Debug\net6.0-windows\cinema_canteen_sales.AssemblyInfoInputs.cache
+C:\Users\doguk\source\repos\cinema_canteen_sales\cinema_canteen_sales\obj\Debug\net6.0-windows\cinema_canteen_sales.AssemblyInfo.cs
+C:\Users\doguk\source\repos\cinema_canteen_sales\cinema_canteen_sales\obj\Debug\net6.0-windows\cinema_canteen_sales.csproj.CoreCompileInputs.cache
+C:\Users\doguk\source\repos\cinema_canteen_sales\cinema_canteen_sales\obj\Debug\net6.0-windows\cinema_canteen_sales.dll
+C:\Users\doguk\source\repos\cinema_canteen_sales\cinema_canteen_sales\obj\Debug\net6.0-windows\refint\cinema_canteen_sales.dll
+C:\Users\doguk\source\repos\cinema_canteen_sales\cinema_canteen_sales\obj\Debug\net6.0-windows\cinema_canteen_sales.pdb
+C:\Users\doguk\source\repos\cinema_canteen_sales\cinema_canteen_sales\obj\Debug\net6.0-windows\cinema_canteen_sales.genruntimeconfig.cache
+C:\Users\doguk\source\repos\cinema_canteen_sales\cinema_canteen_sales\obj\Debug\net6.0-windows\ref\cinema_canteen_sales.dll
+C:\Users\doguk\Desktop\C# Proje\cinema_canteen_sales\cinema_canteen_sales\bin\Debug\net6.0-windows\cinema_canteen_sales.exe
+C:\Users\doguk\Desktop\C# Proje\cinema_canteen_sales\cinema_canteen_sales\bin\Debug\net6.0-windows\cinema_canteen_sales.deps.json
+C:\Users\doguk\Desktop\C# Proje\cinema_canteen_sales\cinema_canteen_sales\bin\Debug\net6.0-windows\cinema_canteen_sales.runtimeconfig.json
+C:\Users\doguk\Desktop\C# Proje\cinema_canteen_sales\cinema_canteen_sales\bin\Debug\net6.0-windows\cinema_canteen_sales.dll
+C:\Users\doguk\Desktop\C# Proje\cinema_canteen_sales\cinema_canteen_sales\bin\Debug\net6.0-windows\cinema_canteen_sales.pdb
+C:\Users\doguk\Desktop\C# Proje\cinema_canteen_sales\cinema_canteen_sales\obj\Debug\net6.0-windows\cinema_canteen_sales.csproj.AssemblyReference.cache
+C:\Users\doguk\Desktop\C# Proje\cinema_canteen_sales\cinema_canteen_sales\obj\Debug\net6.0-windows\cinema_canteen_sales.Form1.resources
+C:\Users\doguk\Desktop\C# Proje\cinema_canteen_sales\cinema_canteen_sales\obj\Debug\net6.0-windows\cinema_canteen_sales.Properties.Resources.resources
+C:\Users\doguk\Desktop\C# Proje\cinema_canteen_sales\cinema_canteen_sales\obj\Debug\net6.0-windows\cinema_canteen_sales.csproj.GenerateResource.cache
+C:\Users\doguk\Desktop\C# Proje\cinema_canteen_sales\cinema_canteen_sales\obj\Debug\net6.0-windows\cinema_canteen_sales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doguk\Desktop\C# Proje\cinema_canteen_sales\cinema_canteen_sales\obj\Debug\net6.0-windows\cinema_canteen_sales.AssemblyInfoInputs.cache
+C:\Users\doguk\Desktop\C# Proje\cinema_canteen_sales\cinema_canteen_sales\obj\Debug\net6.0-windows\cinema_canteen_sales.AssemblyInfo.cs
+C:\Users\doguk\Desktop\C# Proje\cinema_canteen_sales\cinema_canteen_sales\obj\Debug\net6.0-windows\cinema_canteen_sales.csproj.CoreCompileInputs.cache
+C:\Users\doguk\Desktop\C# Proje\cinema_canteen_sales\cinema_canteen_sales\obj\Debug\net6.0-windows\cinema_canteen_sales.dll
+C:\Users\doguk\Desktop\C# Proje\cinema_canteen_sales\cinema_canteen_sales\obj\Debug\net6.0-windows\refint\cinema_canteen_sales.dll
+C:\Users\doguk\Desktop\C# Proje\cinema_canteen_sales\cinema_canteen_sales\obj\Debug\net6.0-windows\cinema_canteen_sales.pdb
+C:\Users\doguk\Desktop\C# Proje\cinema_canteen_sales\cinema_canteen_sales\obj\Debug\net6.0-windows\cinema_canteen_sales.genruntimeconfig.cache
+C:\Users\doguk\Desktop\C# Proje\cinema_canteen_sales\cinema_canteen_sales\obj\Debug\net6.0-windows\ref\cinema_canteen_sales.dll
